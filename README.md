@@ -20,4 +20,4 @@
     - pokemon_result = pd.DataFrame(result, columns = [pokemon_list[12]])
     - 결과값 데이터프레임으로 확인가능
         
-        ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/455459bb-3a46-447e-bfee-e53397ae9bee/2b5301a1-e046-411a-9bfe-852c2e12690c/Untitled.png)
+        ![12번 유사도](https://github.com/Tongsil/Image_similar/assets/139235928/02719025-cc40-4c37-9a32-b4ea66d555cd)
